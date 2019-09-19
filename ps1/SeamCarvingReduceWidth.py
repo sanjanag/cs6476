@@ -1,4 +1,4 @@
-from util import *
+from reduceWidth import *
 
 orig_im = np.asarray(Image.open("./inputSeamCarvingPrague.jpg"))
 im = orig_im.copy()
